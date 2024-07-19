@@ -67,4 +67,6 @@
     <a href="mailto:rodrigo.rrch@gmail.com" target="_blank" alt="Gmail"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="30"></a>&nbsp;
     <a href="https://fb.com/rodrigo.chinaglia" target="_blank" alt="Facebook"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="30" width="30"></a>&nbsp;
   </p>
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W810OEHC)
 </p>
